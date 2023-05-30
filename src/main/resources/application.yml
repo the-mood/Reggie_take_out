@@ -20,4 +20,4 @@ mybatis-plus:
     db-config:
       id-type: ASSIGN_ID
 reggie:
-  path: /usr/local/javaapp/reggie_take_out/src/main/resources/images/
+  path: /usr/local/javaapp/reggie-take-out/src/main/resources/images/
