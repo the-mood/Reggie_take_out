@@ -82,10 +82,15 @@
             <version>2.1.0</version>
         </dependency>
 
-<!--        配置使用redis的依赖-->
+<!--    配置使用redis的依赖-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-redis</artifactId>
+        </dependency>
+<!--    配置springcache相关依赖-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-cache</artifactId>
         </dependency>
     </dependencies>
 

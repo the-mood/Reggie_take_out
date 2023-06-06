@@ -53,6 +53,7 @@ D:\Code_yang\IDEA_project\reggie_take_out\src\main\java\com\yang\reggie\controll
 D:\Code_yang\IDEA_project\reggie_take_out\src\main\java\com\yang\reggie\common\BaseContext.java
 D:\Code_yang\IDEA_project\reggie_take_out\src\main\java\com\yang\reggie\service\AddressBookService.java
 D:\Code_yang\IDEA_project\reggie_take_out\src\main\java\com\yang\reggie\utils\SMSUtils.java
+D:\Code_yang\IDEA_project\reggie_take_out\src\main\java\com\yang\reggie\config\RedisConfig.java
 D:\Code_yang\IDEA_project\reggie_take_out\src\main\java\com\yang\reggie\entity\OrderDetail.java
 D:\Code_yang\IDEA_project\reggie_take_out\src\main\java\com\yang\reggie\mapper\EmployeeMapper.java
 D:\Code_yang\IDEA_project\reggie_take_out\src\main\java\com\yang\reggie\common\R.java

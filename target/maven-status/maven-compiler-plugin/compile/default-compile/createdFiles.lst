@@ -5,6 +5,7 @@ com\yang\reggie\mapper\UserMapper.class
 com\yang\reggie\service\DishFlavorService.class
 com\yang\reggie\controller\SetmealController.class
 com\yang\reggie\common\R.class
+com\yang\reggie\config\RedisConfig.class
 com\yang\reggie\service\impl\AddressBookServiceImpl.class
 com\yang\reggie\utils\SMSUtils.class
 com\yang\reggie\common\CustomException.class
