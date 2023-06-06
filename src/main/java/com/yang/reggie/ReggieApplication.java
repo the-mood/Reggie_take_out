@@ -19,7 +19,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @ServletComponentScan
 //开启事务的支持
 @EnableTransactionManagement
-//开启缓存注解功能
+//开启SpringCache的缓存注解功能
 @EnableCaching
 public class ReggieApplication {
     public static void main(String[] args) {
