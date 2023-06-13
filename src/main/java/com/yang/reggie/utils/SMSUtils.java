@@ -8,8 +8,8 @@ import com.aliyuncs.exceptions.ClientException;
 import com.aliyuncs.profile.DefaultProfile;
 
 /**
- * ID：阿里云短信服务的Access Key
- * Secret：阿里云短信服务的密码
+ * ID：LTAI5tJLq2i7XgWEWxfhjmGJ
+ * Secret：wSjF3TFksFcGa7PqvZgrieAtW16UbD
  * 短信发送工具类
  */
 public class SMSUtils {
@@ -23,7 +23,7 @@ public class SMSUtils {
 	 */
 	public static void sendMessage(String signName, String templateCode,String phoneNumbers,String param){
 		DefaultProfile profile = DefaultProfile.getProfile(
-				"cn-hangzhou", "ID", "Secret");
+				"cn-hangzhou", "LTAI5tJLq2i7XgWEWxfhjmGJ", "wSjF3TFksFcGa7PqvZgrieAtW16UbD");
 		IAcsClient client = new DefaultAcsClient(profile);
 
 		SendSmsRequest request = new SendSmsRequest();
